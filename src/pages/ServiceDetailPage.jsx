@@ -1,5 +1,3 @@
-"use client"
-
 import { useParams, Link } from "react-router-dom"
 import { ArrowLeft, CheckCircle, Clock, Star, Phone, PhoneIcon as WhatsApp } from "lucide-react"
 import Button from "../components/ui/Button"

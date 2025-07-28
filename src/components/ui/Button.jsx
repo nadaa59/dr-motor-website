@@ -1,5 +1,3 @@
-"use client"
-
 import { cn } from "../../utils/cn"
 
 const Button = ({ children, className, variant = "primary", size = "md", disabled = false, onClick, ...props }) => {

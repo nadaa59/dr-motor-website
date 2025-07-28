@@ -1,5 +1,3 @@
-"use client"
-
 import { MapPin, Phone, Clock, PhoneIcon as WhatsApp, Car, Wrench } from "lucide-react"
 import Button from "../components/ui/Button"
 import { Card, CardContent } from "../components/ui/Card"

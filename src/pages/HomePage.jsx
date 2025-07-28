@@ -1,5 +1,3 @@
-"use client"
-
 import { Link } from "react-router-dom"
 import { Phone, PhoneIcon as WhatsApp, MapPin } from "lucide-react"
 import Button from "../components/ui/Button"

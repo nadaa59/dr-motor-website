@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from "react"
 import { Link, useLocation } from "react-router-dom"
 import { MapPin, Menu, X } from "lucide-react"
