@@ -33,7 +33,7 @@ const HomePage = () => {
               Repaired
             </h1>
             <p className="text-xl mb-8 text-gray-200 leading-relaxed">
-              DR Motor is ready to provide car services that you can rely on with excellent quality and long lasting
+              DR Motorji is ready to provide car services that you can rely on with excellent quality and long lasting
               solutions across Abu Dhabi, Sharjah, and Al Ain.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
@@ -103,9 +103,9 @@ const HomePage = () => {
         <div className="container mx-auto px-4">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-4xl font-bold text-gray-900 mb-6">Why Choose DR Motor?</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">Why Choose DR Motorji?</h2>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                With years of experience in the automotive industry, DR Motor has established itself as a trusted name
+                With years of experience in the automotive industry, DR Motorji has established itself as a trusted name
                 across the UAE. We combine traditional craftsmanship with modern technology to deliver exceptional
                 results.
               </p>

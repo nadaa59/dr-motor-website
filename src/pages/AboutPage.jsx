@@ -53,7 +53,7 @@ const AboutPage = () => {
       <section className="py-16 bg-gradient-to-r from-gray-900 to-gray-800 text-white">
         <div className="container mx-auto px-4 text-center">
           <Badge className="mb-4 bg-yellow-500 text-gray-900">🏆 Trusted Since 2009</Badge>
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">About DR Motor</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-6">About DR Motorji</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto">
             Your trusted automotive service provider across the UAE, delivering excellence in every service with
             professional care and attention to detail
@@ -82,7 +82,7 @@ const AboutPage = () => {
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Founded in 2009, DR Motor began as a small automotive repair shop with a simple mission: to provide
+                Founded in 2009, DR Motorji began as a small automotive repair shop with a simple mission: to provide
                 honest, reliable, and professional automotive services to the UAE community.
               </p>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
@@ -164,7 +164,7 @@ const AboutPage = () => {
             </div>
 
             <div>
-              <h2 className="text-4xl font-bold text-gray-900 mb-6">Why Choose DR Motor?</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">Why Choose DR Motorji?</h2>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                 With years of experience and a commitment to excellence, we provide automotive services that you can
                 trust. Here's what sets us apart:
@@ -227,7 +227,7 @@ const AboutPage = () => {
       {/* CTA Section */}
       <section className="py-16 bg-gray-900 text-white">
         <div className="container mx-auto px-4 text-center">
-          <h2 className="text-3xl font-bold mb-4">Experience the DR Motor Difference</h2>
+          <h2 className="text-3xl font-bold mb-4">Experience the DR Motorji Difference</h2>
           <p className="text-xl text-gray-300 mb-8">Join thousands of satisfied customers across the UAE</p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -242,7 +242,7 @@ const AboutPage = () => {
             <Button
               size="lg"
               className="bg-green-500 hover:bg-green-400 text-white font-semibold"
-              onClick={() => openWhatsApp("Hello DR Motor, I would like to learn more about your services")}
+              onClick={() => openWhatsApp("Hello DR Motorji, I would like to learn more about your services")}
             >
               <WhatsApp className="w-5 h-5 mr-2" />
               WhatsApp Us
