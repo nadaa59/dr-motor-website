@@ -14,7 +14,7 @@ const Footer = () => {
                 <span className="text-gray-900 font-bold text-lg">DR</span>
               </div>
               <div>
-                <h3 className="text-xl font-bold">DR MOTOR</h3>
+                <h3 className="text-xl font-bold">DR MOTORJI</h3>
                 <p className="text-sm text-gray-300">Professional Auto Care</p>
               </div>
             </Link>

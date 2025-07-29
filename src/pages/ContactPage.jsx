@@ -37,7 +37,7 @@ const ContactPage = () => {
       <section className="py-16 bg-gradient-to-r from-yellow-50 to-yellow-100">
         <div className="container mx-auto px-4 text-center">
           <Badge className="mb-4 bg-yellow-500 text-gray-900">📞 24/7 Support Available</Badge>
-          <h1 className="text-4xl font-bold text-gray-900 mb-6">Contact DR Motor</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-6">Contact DR Motorji</h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
             Ready to service your vehicle? Contact us through any of the methods below. We're here to help with all your
             automotive needs across Abu Dhabi, Sharjah, and Al Ain.

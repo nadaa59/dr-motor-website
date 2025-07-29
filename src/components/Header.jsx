@@ -18,7 +18,7 @@ const Header = () => {
               <span className="text-gray-900 font-bold text-lg">DR</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold">DR MOTOR</h1>
+              <h1 className="text-xl font-bold">DR MOTORJI</h1>
               <p className="text-xs text-gray-300">Professional Auto Care</p>
             </div>
           </Link>
